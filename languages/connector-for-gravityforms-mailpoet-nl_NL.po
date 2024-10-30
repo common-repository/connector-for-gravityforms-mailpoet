@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Connector for Gravity Forms and MailPoet\n"
+"POT-Creation-Date: 2024-10-09 09:59+0200\n"
+"PO-Revision-Date: 2024-10-09 09:59+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: connector-mailpoet-gravityforms.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:105
+msgid "Name"
+msgstr "Naam"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:106
+msgid "MailPoet Lists"
+msgstr "MailPoet-lijsten"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:118
+msgid "MailPoet Feed Settings"
+msgstr "MailPoet Feed-instellingen"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:121
+msgid "Feed name"
+msgstr "Naam van de feed"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:129
+msgid "Map Fields"
+msgstr "Velden toewijzen"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:131
+msgid "Map the Gravity Form fields to the MailPoet subscriber fields"
+msgstr "Wijs de Gravity Form-velden toe aan de velden van de MailPoet-abonnee"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:135
+msgid "First Name"
+msgstr "Voornaam"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:139
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:144
+msgid "Email"
+msgstr "E-mail"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:150
+msgid "Existing subscribers"
+msgstr "Bestaande abonnees"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:155
+msgid "Update the name of the existing subscriber"
+msgstr "Werk de naam van de bestaande abonnee bij"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:163
+msgid "Condition"
+msgstr "Conditie"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:165
+msgid "Enable Condition"
+msgstr "Voorwaarde inschakelen"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:166
+msgid "Process this feed if"
+msgstr "Verwerk deze feed als"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:196
+#: class-gravitywp-connector-mailpoet-gravityforms.php:205
+msgid "MailPoet Lists"
+msgstr "MailPoet Lijsten"
+
+#: class-gravitywp-connector-mailpoet-gravityforms.php:198
+msgid "You don't have any lists set up."
+msgstr "Je hebt geen lijsten ingesteld."
+
+#. Plugin Name of the plugin/theme
+msgid "Connector for Gravity Forms and MailPoet"
+msgstr "Connector voor Gravity Forms en MailPoet"
+
+#. Plugin URI of the plugin/theme
+msgid "https://gravitywp.com/add-on/connector-for-gravityforms-and-mailpoet"
+msgstr "https://gravitywp.com/add-on/connector-for-gravity-forms-and-mailpoet"
+
+#. Description of the plugin/theme
+msgid ""
+"Integrate Gravity Forms with MailPoet to easily subscribe users to your "
+"MailPoet newsletters upon form submission."
+msgstr ""
+"Integreer Gravity Forms met MailPoet om gebruikers eenvoudig te abonneren op "
+"uw MailPoet-nieuwsbrieven na het indienen van formulieren."
+
+#. Author of the plugin/theme
+msgid "GravityWP"
+msgstr "GravityWP"
+
+#. Author URI of the plugin/theme
+msgid "https://gravitywp.com"
+msgstr "https://gravitywp.com"
